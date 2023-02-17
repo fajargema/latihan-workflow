@@ -20,7 +20,7 @@ func main() {
 
 	// Luas Lingkaran
 	var r float64
-	var pi float64 = 3.14
+	const pi float64 = 3.14
 
     fmt.Print("Masukkan jari-jari lingkaran: ")
     fmt.Scanln(&r)
