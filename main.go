@@ -11,4 +11,10 @@ func main() {
 	c := a + b
 
 	fmt.Println("Hasil perhitungan = ", c)
+
+	// pengurangan
+    d := 20
+    e := 5
+    f := d - e
+    fmt.Println("Hasil pengurangan = ", f)
 }
